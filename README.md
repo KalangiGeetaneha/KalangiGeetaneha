@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+Developer;Open+Source+Contributor;50%2B+Merged+Pull+Requests;AI+Enthusiast;DSA+Problem+Solver;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Open+Source+Contributor;50%2B+Merged+Pull+Requests;AI+Enthusiast;DSA+Problem+Solver;Always+Learning+New+Things+🚀"/>
 </p>
 
 <p align="center">
