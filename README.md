@@ -1,140 +1,184 @@
-<h1 align="center">Hi 👋, I'm Geeta</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00B4DB,100:8A2BE2&text=Hi%20👋,%20I'm%20Geeta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | ☕ Java Developer | 🌱 Open Source Contributor
+💻 Full Stack Developer • ☕ Java Developer • 🚀 Open Source Contributor
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+Developer;Open+Source+Contributor;DSA+Enthusiast;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+Developer;Open+Source+Contributor;50%2B+Merged+Pull+Requests;AI+Enthusiast;DSA+Problem+Solver;Always+Learning+New+Things+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KalangiGeetaneha&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/KalangiGeetaneha?label=Followers&style=for-the-badge&logo=github"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KalangiGeetaneha&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/KalangiGeetaneha?style=for-the-badge"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🔭 **Currently Working On**
-- Full Stack Web Development Projects
-- AI-powered Applications
-- Improving Data Structures & Algorithms
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-👯 **Looking to Collaborate On**
-- Open Source Projects
-- Java Applications
-- React & Next.js Projects
-- Innovative Web Applications
+- 🎓 B.Tech Computer Science Student
+- 💻 Full Stack Developer
+- ☕ Java Developer
+- 🌟 Open Source Contributor (50+ Merged PRs)
+- 🤖 AI Enthusiast
+- 📚 DSA Problem Solver
+- 🚀 Passionate about building real-world applications
 
-🌱 **Currently Learning**
+### 🌱 Currently Learning
+
 - Next.js
-- Advanced Data Structures & Algorithms
+- AWS Cloud
+- Advanced DSA
 - AI Integration
+- System Design
 
-💬 **Ask Me About**
-- Java
-- Data Structures & Algorithms
-- React
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- Git & GitHub
-- Open Source
+### 💬 Ask me about
 
-🏆 **Achievements**
-- 🚀 50+ Merged Pull Requests in Open Source
-- 💻 Passionate Full Stack Developer
-- 📚 Regular DSA Problem Solver
-
-⚡ **Fun Fact**
-> Every merged pull request is a new learning experience!
+Java • React • Node.js • MongoDB • PostgreSQL • Open Source • DSA
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/kalangi-geeta-neha-a90574291/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kalangi-geeta-neha-a90574291/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:geetanehakalangi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://instagram.com/kgeetaneha" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/kgeetaneha">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
+
+<a href="https://leetcode.com/u/KGeetaneha_2006/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<a href="https://skillicons.dev">
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,react,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,git,github,vscode,vercel"/>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</a>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=KalangiGeetaneha&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+| Achievement | Details |
+|------------|---------|
+| 🚀 Open Source | 50+ Merged Pull Requests |
+| 💻 Projects | 4+ Full Stack Applications |
+| 🤖 AI | Built AI Online Learning Platform |
+| 📚 DSA | Regular Problem Solver |
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=KalangiGeetaneha&theme=github_dark&show_icons=true&hide_border=true)
+## 🤖 AI Online Learning Platform
 
-![](https://streak-stats.demolab.com?user=KalangiGeetaneha&theme=github-dark&hide_border=true)
+AI-powered learning platform built with **Next.js**, **Clerk**, **PostgreSQL**, **Drizzle ORM**, and **Google Gemini AI**.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalangiGeetaneha&layout=compact&theme=github_dark&hide_border=true)
+🔗 Live Demo: https://ai-online-learning-platform-gold.vercel.app/
+
+---
+
+## 🍔 Food Delivery Website
+
+Complete MERN Stack food ordering application with authentication, shopping cart, admin dashboard, and responsive UI.
+
+🔗 Live Demo: https://food-delivery-frontend-e2lj.onrender.com/
+
+---
+
+## 💼 Employee Payroll System
+
+Java OOP Payroll Management System using JDBC and MySQL.
+
+---
+
+## 👟 Nike Shoe Store
+
+Responsive e-commerce landing page built using HTML, CSS, and JavaScript.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KalangiGeetaneha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=KalangiGeetaneha&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalangiGeetaneha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Geeta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KalangiGeetaneha&theme=github-compact)](https://github.com/KalangiGeetaneha)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalangiGeetaneha&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-
-
----
+# 🏆 GitHub Trophies
 
 <p align="center">
-⭐️ From <a href="https://github.com/KalangiGeetaneha">KalangiGeetaneha</a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KalangiGeetaneha&theme=algolia&no-frame=true"/>
+
 </p>
+
+---
+# 🌃 3D Contribution Calendar
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KalangiGeetaneha/KalangiGeetaneha/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</p>
+
+---
+# 💭 Favorite Quote
+
+<p align="center">
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+</p>
+
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:00B4DB"/>
