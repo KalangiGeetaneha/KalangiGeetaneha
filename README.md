@@ -131,13 +131,7 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-> **Enable GitHub Actions first, then add the following image.**
-
-```markdown
-![Snake animation](https://raw.githubusercontent.com/KalangiGeetaneha/KalangiGeetaneha/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
