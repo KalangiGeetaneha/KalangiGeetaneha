@@ -154,14 +154,6 @@ Responsive e-commerce landing page built using HTML, CSS, and JavaScript.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KalangiGeetaneha&theme=algolia&no-frame=true"/>
-
-</p>
-
 ---
 # 🌃 3D Contribution Calendar
 
