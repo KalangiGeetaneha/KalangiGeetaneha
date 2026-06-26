@@ -3,7 +3,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • ☕ Java Developer • 🚀 Open Source Contributor
+💻 Full Stack Developer  • 🚀 Open Source Contributor
 </h3>
 
 <p align="center">
@@ -36,7 +36,6 @@
 ### 🌱 Currently Learning
 
 - Next.js
-- AWS Cloud
 - Advanced DSA
 - AI Integration
 - System Design
@@ -154,16 +153,7 @@ Responsive e-commerce landing page built using HTML, CSS, and JavaScript.
 
 ---
 
----
-# 🌃 3D Contribution Calendar
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/KalangiGeetaneha/KalangiGeetaneha/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</p>
-
----
 # 💭 Favorite Quote
 
 <p align="center">
